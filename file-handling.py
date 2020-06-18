@@ -1,0 +1,11 @@
+f = open("new.txt", "a")
+f.write("This is the appended text")
+f = open("new.txt", "r")
+print(f.read())
+f.close()
+
+# f = open("new2.txt", "w")
+# f.write("This is the overwritten text")
+# f = open("new2.txt", "r")
+# print(f.read())
+# f.close()
