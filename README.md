@@ -54,3 +54,70 @@ This repository contains programs on :
 - Python Lambda
 - Random Module
 ```
+
+## Regular Expressions :
+```
+- RegEx module
+- RegEx Funstions
+- Metacharacters
+- Special Sequences
+```
+
+## Hashing
+```
+- hashlib module
+- md5
+- sha1
+- Salting
+```
+
+## Error Handling :
+```
+- try....except
+- try....except....else
+- try....except....finally
+- raising exceptions
+```
+
+## File Handling :
+```
+- create
+- read
+- write
+- append
+- close
+```
+
+## OS Module :
+```
+- make a directory
+- change directory
+- remove directory
+```
+
+## OOPS
+```
+- CLASS
+- OBJECT
+- CONSTRUCTOR
+- DESTRUCTOR
+- PASS STATEMENT
+- INERITANCE
+- ACCESS MODIFIERS
+```
+
+## Database Connection with Python :
+```
+- mysql connector
+- creating table
+- displaying table
+```
+
+## Tkinder :
+```
+- import tkinder
+- GUI Tkinder
+- Button Tkinder
+- Login
+- Menu
+```
